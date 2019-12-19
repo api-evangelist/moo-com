@@ -1,0 +1,85 @@
+{
+    "name": "moo.com",
+    "description": "Design and print customized Business Cards with MOO! Print a different image on each business card - upload your own design, logo, text and photos online. | MOO (United States)",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/259-moo-com.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "print"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/moo-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "moo.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/259-moo-com.jpg",
+            "humanURL": "http:\/\/us.moo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/moo-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/moo-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.moo.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.moo.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.moo.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/moo"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/us.moo.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "community@moo.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@moo.com"
+        },
+        {
+            "type": "Email",
+            "url": "pr@moo.com"
+        },
+        {
+            "type": "Email",
+            "url": "data.privacymanager@moo.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/overheardatmoo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MOO"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/us.moo.com"
+        }
+    ]
+}
